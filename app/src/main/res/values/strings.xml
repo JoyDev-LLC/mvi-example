@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVI Example. Koin</string>
+    <string name="show_more">Показать еще</string>
+</resources>
